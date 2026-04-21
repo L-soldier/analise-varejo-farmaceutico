@@ -1,11 +1,15 @@
 # Análise: Interesse digital vs consumo farmacêutico
 
 ## Objetivo
-Avaliar se o interesse de busca por vitamina C acompanha o consumo no varejo farmacêutico no Brasil.
+Avaliar se o interesse digital pode ser utilizado como indicador de demanda no varejo farmacêutico.
 
 ## Dados
 - IBGE SIDRA (Tabela 8883 – índice do varejo farmacêutico)
 - Google Trends (termo: "vitamina C")
+
+## Ferramentas
+- Power BI
+- Excel (tratamento de dados)
 
 ## Abordagem
 Análise temporal comparando a evolução do índice de vendas do varejo farmacêutico com o interesse de busca ao longo do tempo.
@@ -20,3 +24,8 @@ Análise temporal comparando a evolução do índice de vendas do varejo farmac�
 
 ## Conclusão
 O interesse digital não se mostrou um bom indicador isolado de demanda para o varejo farmacêutico, indicando a necessidade de considerar outros fatores na análise de consumo.
+
+## Próximos passos
+- Incluir novas variáveis (ex: sazonalidade, clima, campanhas)
+- Testar correlação estatística
+- Explorar uso de IA para geração de insights
