@@ -1,4 +1,4 @@
-# Análise: Interesse digital vs consumo farmacêutico
+# Avaliar se o interesse digital pode ser utilizado como indicador de demanda no varejo farmacêutico
 
 ## Objetivo
 Avaliar se o interesse digital pode ser utilizado como indicador de demanda no varejo farmacêutico.
