@@ -15,7 +15,7 @@ Avaliar se o interesse digital pode ser utilizado como indicador de demanda no v
 Análise temporal comparando a evolução do índice de vendas do varejo farmacêutico com o interesse de busca ao longo do tempo.
 
 ## Principais insights
-- O varejo farmacêutico apresentou crescimento consistente no período (~61,8%).
+- O varejo farmacêutico apresentou crescimento consistente no período (61,8%).
 - O interesse de busca é volátil e apresenta picos pontuais.
 - Não há relação consistente entre interesse digital e consumo, sugerindo que a demanda é mais estrutural do que oportunista.
 
